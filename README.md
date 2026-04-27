@@ -29,5 +29,10 @@ I'm **Trịnh Hoài Ty** (@tytin24), a high school student at Thoai Ngoc Hau Hig
 
 ---
 *"Code is math, and math is art."* 🚀
+### 📱 Connect with me
+* 🎥 **YouTube:** [mrhoaity](https://www.youtube.com/@mrhoaity)
+* 📘 **Facebook:** [Trịnh Hoài Ty](https://www.facebook.com/hoai.ty.904/)
+* 🎵 **TikTok:** [@t_h_t__z](https://www.tiktok.com/@t_h_t__z)
+* 📧 **Email:** [hoaityhoai21@gmail.com](mailto:hoaityhoai21@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tytin24&show_icons=true&theme=radical)
